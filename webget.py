@@ -38,9 +38,6 @@ for link in links:
     else:
         print "Bad href (didn\'t parse)", href
 
-
-
-
 for key,val in mydict.items():
     print key
     print val
